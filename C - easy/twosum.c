@@ -1,3 +1,8 @@
+/*Date of submission: 15 August 2023
+Runtime: 110ms, Beats 27.44% of users with C
+Memory: 6.3MB, Beats 91.29% of users with C
+*/
+
 #include <stdio.h>
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
