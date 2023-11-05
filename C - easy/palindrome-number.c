@@ -1,3 +1,8 @@
+/*Date of submission: 16 August 2023
+Runtime: 7ms, Beats 71.6% of users with C
+Memory: 5.7MB, Beats 98.85% of users with C
+*/
+
 #include <stdio.h>
 
 bool isPalindrome(int x){
@@ -25,3 +30,5 @@ bool isPalindrome(int x){
 int main() {
     printf(isPalindrome(1001));
 };
+
+//
