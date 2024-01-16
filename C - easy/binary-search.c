@@ -6,7 +6,6 @@ Memory: 7.64MB,Beats 78.51% of users with C
 #include <stdio.h>
 
 int search(int* nums, int numsSize, int target) {
-    //time taken: 1h 1min 12 sec
 
     if (numsSize == 1)
     {
