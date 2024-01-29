@@ -1,6 +1,6 @@
 /*Date of submission: 29 January 2024
-Runtime: 0ms, Beats 100.00%of users with C
-Memory: 5.92MB, Beats 90.76%of users with C
+Runtime: 0ms, Beats 100.00% of users with C
+Memory: 5.92MB, Beats 90.76% of users with C
 */
 #include <stdio.h>
 
